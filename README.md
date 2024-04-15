@@ -1,7 +1,3 @@
-# PawsGiving
-
-https://natachaacchan.github.io/PawsGiving/
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
